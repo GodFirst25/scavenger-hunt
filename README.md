@@ -25,7 +25,7 @@ The following **optional** features are implemented:
 
 ## Video Walkthrough
 
-[Upload your Loom walkthrough video here]
+[https://www.loom.com/share/dc694ca29c574bd5b634d2fe1de7ab1a)]
 
 ## Notes
 
